@@ -1,0 +1,12 @@
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.deps.json
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.dll
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.pdb
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.csproj.CoreCompileInputs.cache
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.AssemblyInfoInputs.cache
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.AssemblyInfo.cs
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\XamlC.stamp
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.dll
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.pdb
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.csprojAssemblyReference.cache
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\View\HomeView.xaml.g.cs
