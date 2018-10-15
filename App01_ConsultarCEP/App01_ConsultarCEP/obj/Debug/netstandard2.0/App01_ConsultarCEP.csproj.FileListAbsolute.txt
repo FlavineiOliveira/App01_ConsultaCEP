@@ -10,3 +10,8 @@ D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Deb
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.pdb
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.csprojAssemblyReference.cache
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\View\HomeView.xaml.g.cs
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.Domain.dll
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.Services.dll
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.Domain.pdb
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.Services.pdb
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.csproj.CopyComplete

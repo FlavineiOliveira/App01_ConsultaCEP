@@ -321,6 +321,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "App01_ConsultarCEP.Services": "1.0.0",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -329,6 +331,30 @@
         },
         "runtime": {
           "bin/placeholder/App01_ConsultarCEP.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
         }
       }
     },
@@ -827,6 +853,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "App01_ConsultarCEP.Services": "1.0.0",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -835,6 +863,30 @@
         },
         "runtime": {
           "bin/placeholder/App01_ConsultarCEP.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
         }
       }
     },
@@ -1334,6 +1386,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "App01_ConsultarCEP.Services": "1.0.0",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -1342,6 +1396,30 @@
         },
         "runtime": {
           "bin/placeholder/App01_ConsultarCEP.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
         }
       }
     },
@@ -1665,6 +1743,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "App01_ConsultarCEP.Services": "1.0.0",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -1673,6 +1753,30 @@
         },
         "runtime": {
           "bin/placeholder/App01_ConsultarCEP.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
         }
       }
     },
@@ -2171,6 +2275,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "App01_ConsultarCEP.Services": "1.0.0",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -2179,6 +2285,30 @@
         },
         "runtime": {
           "bin/placeholder/App01_ConsultarCEP.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
         }
       }
     },
@@ -2678,6 +2808,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "App01_ConsultarCEP.Services": "1.0.0",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -2686,6 +2818,30 @@
         },
         "runtime": {
           "bin/placeholder/App01_ConsultarCEP.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
         }
       }
     },
@@ -3184,6 +3340,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "App01_ConsultarCEP.Services": "1.0.0",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -3192,6 +3350,30 @@
         },
         "runtime": {
           "bin/placeholder/App01_ConsultarCEP.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
         }
       }
     },
@@ -3691,6 +3873,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "App01_ConsultarCEP.Services": "1.0.0",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -3699,6 +3883,30 @@
         },
         "runtime": {
           "bin/placeholder/App01_ConsultarCEP.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
         }
       }
     }
@@ -7548,6 +7756,16 @@
       "type": "project",
       "path": "../App01_ConsultarCEP/App01_ConsultarCEP.csproj",
       "msbuildProject": "../App01_ConsultarCEP/App01_ConsultarCEP.csproj"
+    },
+    "App01_ConsultarCEP.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../App01_ConsultarCEP.Domain/App01_ConsultarCEP.Domain.csproj",
+      "msbuildProject": "../../App01_ConsultarCEP.Domain/App01_ConsultarCEP.Domain.csproj"
+    },
+    "App01_ConsultarCEP.Services/1.0.0": {
+      "type": "project",
+      "path": "../../App01_ConsultarCEP.Services/App01_ConsultarCEP.Services.csproj",
+      "msbuildProject": "../../App01_ConsultarCEP.Services/App01_ConsultarCEP.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {

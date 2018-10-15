@@ -34,4 +34,9 @@
       <Generator>MSBuild:Compile</Generator>
     </None>
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\App01_ConsultarCEP.Domain\App01_ConsultarCEP.Domain.csproj" />
+    <ProjectReference Include="..\..\App01_ConsultarCEP.Services\App01_ConsultarCEP.Services.csproj" />
+  </ItemGroup>
 </Project>

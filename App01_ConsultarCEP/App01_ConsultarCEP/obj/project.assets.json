@@ -51,6 +51,30 @@
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
+      },
+      "App01_ConsultarCEP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Domain.dll": {}
+        }
+      },
+      "App01_ConsultarCEP.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "App01_ConsultarCEP.Domain": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_ConsultarCEP.Services.dll": {}
+        }
       }
     }
   },
@@ -373,10 +397,22 @@
         "xamarin.forms.3.1.0.697729.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "App01_ConsultarCEP.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../App01_ConsultarCEP.Domain/App01_ConsultarCEP.Domain.csproj",
+      "msbuildProject": "../../App01_ConsultarCEP.Domain/App01_ConsultarCEP.Domain.csproj"
+    },
+    "App01_ConsultarCEP.Services/1.0.0": {
+      "type": "project",
+      "path": "../../App01_ConsultarCEP.Services/App01_ConsultarCEP.Services.csproj",
+      "msbuildProject": "../../App01_ConsultarCEP.Services/App01_ConsultarCEP.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "App01_ConsultarCEP.Domain >= 1.0.0",
+      "App01_ConsultarCEP.Services >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 11.0.2",
       "Xamarin.Forms >= 3.1.0.697729"
@@ -411,7 +447,14 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\UdemyXamarin\\App01_ConsultarCEP\\App01_ConsultarCEP.Domain\\App01_ConsultarCEP.Domain.csproj": {
+              "projectPath": "D:\\UdemyXamarin\\App01_ConsultarCEP\\App01_ConsultarCEP.Domain\\App01_ConsultarCEP.Domain.csproj"
+            },
+            "D:\\UdemyXamarin\\App01_ConsultarCEP\\App01_ConsultarCEP.Services\\App01_ConsultarCEP.Services.csproj": {
+              "projectPath": "D:\\UdemyXamarin\\App01_ConsultarCEP\\App01_ConsultarCEP.Services\\App01_ConsultarCEP.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

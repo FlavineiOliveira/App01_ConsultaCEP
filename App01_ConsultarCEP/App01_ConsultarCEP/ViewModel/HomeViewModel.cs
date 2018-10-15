@@ -1,6 +1,6 @@
-﻿using App01_ConsultarCEP.Interface;
-using App01_ConsultarCEP.Model;
-using App01_ConsultarCEP.Services;
+﻿using App01_ConsultarCEP.Domain.Entidades;
+using App01_ConsultarCEP.Interface;
+using App01_ConsultarCEP.Services.Services;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -43,7 +43,6 @@ namespace App01_ConsultarCEP.ViewModel
 
         public HomeViewModel()
         {
-
         }
 
         public ICommand BuscarEndereco
@@ -57,6 +56,7 @@ namespace App01_ConsultarCEP.ViewModel
                     if (ValidarCep(cep))
                     {
                         Endereco endereco = ViaCepServico.BuscarEnderecoCep(cep);
+                        endereco.Validar();
 
                         Resultado = string.Format("Endereço: {0} {1} {2}", endereco.logradouro, endereco.bairro, endereco.uf);
                     }

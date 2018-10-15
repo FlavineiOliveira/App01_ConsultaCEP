@@ -50,6 +50,8 @@ D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.SecureString.dll
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.dll
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.XPath.XDocument.dll
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\MonoAndroid81\android\assets\App01_ConsultarCEP.Domain.dll
+D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\MonoAndroid81\android\assets\App01_ConsultarCEP.Services.dll
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.dll
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\MonoAndroid81\android\assets\System.Diagnostics.Debug.dll
 D:\UdemyXamarin\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.Android\obj\Debug\MonoAndroid81\android\assets\System.Threading.dll
